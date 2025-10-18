@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: a42c33f6424e2764c9008af76a382cec
+  productGUID: 68e380049a26a0b47b7fcb4e843d1f48
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: S9902
+  productName: S9902game
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -843,14 +843,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: S9902
+  metroPackageName: S9902game
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: S9902
+  metroApplicationDescription: S9902game
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -921,10 +921,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: f8e66904-f119-465a-83e6-1af590c55be4
+  cloudProjectId: bf4ebfe4-1132-444a-b965-646007d2298e
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: S9902
+  projectName: S9902game
   organizationId: unity_c895abd40a187e5a876f
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
