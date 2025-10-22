@@ -725,7 +725,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7831156578428871149, guid: 9f70849d58331044695438beb06d3264, type: 3}
       propertyPath: m_LocalScale.y
-      value: 1.4182961
+      value: 0.99049544
       objectReference: {fileID: 0}
     - target: {fileID: 7831156578428871149, guid: 9f70849d58331044695438beb06d3264, type: 3}
       propertyPath: m_LocalScale.z
@@ -737,7 +737,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7831156578428871149, guid: 9f70849d58331044695438beb06d3264, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.915
+      value: 0.32
       objectReference: {fileID: 0}
     - target: {fileID: 7831156578428871149, guid: 9f70849d58331044695438beb06d3264, type: 3}
       propertyPath: m_LocalPosition.z
@@ -774,6 +774,10 @@ PrefabInstance:
     - target: {fileID: 7831156578428871150, guid: 9f70849d58331044695438beb06d3264, type: 3}
       propertyPath: m_Name
       value: Button next level
+      objectReference: {fileID: 0}
+    - target: {fileID: 7831156578837070365, guid: 9f70849d58331044695438beb06d3264, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.009
       objectReference: {fileID: 0}
     - target: {fileID: 7831156578902440400, guid: 9f70849d58331044695438beb06d3264, type: 3}
       propertyPath: m_text
